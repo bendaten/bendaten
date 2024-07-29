@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bendaten
 - 👀 I’m interested in sports/geo software
-- 💞️ I’m looking to collaborate on running training software that help you generage a training plan for races, track your progress, and adapt to your achievements
+- 💞️ I’m looking to collaborate on running training software that helps athletes generate a training plan for races, track their progress, and adapt to their achievements
 - 📫 How to reach me - bendaten@gmail.com
 
 <!---
